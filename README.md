@@ -1,3 +1,6 @@
+Azure Pipeline Test
+[![Build Status](https://thirdguild.visualstudio.com/Build-Test2/_apis/build/status/triangle-soup.pipelines-java?branchName=master)](https://thirdguild.visualstudio.com/Build-Test2/_build/latest?definitionId=1&branchName=master)
+
 
 # Contributing
 
